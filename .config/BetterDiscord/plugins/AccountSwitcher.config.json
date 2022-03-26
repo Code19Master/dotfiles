@@ -1,0 +1,41 @@
+{
+    "didShowIssueHelperPopup": true,
+    "currentVersionInfo": {
+        "version": "1.3.5",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "accounts": [
+            {
+                "name": "CodeMaster100#7978",
+                "id": "779749147989245972",
+                "avatar": "https://cdn.discordapp.com/avatars/779749147989245972/3ba650bd403cb24d9843a7dca86814bd.webp?size=160",
+                "keybind": [
+                    162,
+                    164,
+                    160
+                ],
+                "token": "aWS6kjtWyFaHTMZw8uiEdw==:qyfs5a4w9Yurb6ffgp8L6UABDp4K/8FaiL46anQTegNKm68eCMxfnWVdwm+ioI0nK0tYUf7jkIQWfexgcOhdXzm7QbvDMO4o3L/XR/wxEXbLDcgvY+7f7IYSTlkjV5hz"
+            },
+            {
+                "name": "Levi Ackerman#7777",
+                "id": "936200647504699402",
+                "avatar": "https://cdn.discordapp.com/avatars/936200647504699402/a_99633b16bfc947d43e4ec3d71fb8144a.gif?size=160",
+                "keybind": [
+                    162,
+                    164,
+                    32
+                ],
+                "token": "5JAhksAEedxJAf8/fnG23A==:r9I6hmo3oLIFMu+xWr55LmvDy2RUhVTzLQ+qHDNdwgzS5VTA+aJ45zpQS+ngtrchNiJ2h7FWYwi5UpOYpVpEdQ=="
+            }
+        ],
+        "encrypted": false,
+        "encTest": "test",
+        "pluginsToRestart": [
+            "AccountDetailsPlus",
+            "AutoStartRichPresence"
+        ],
+        "encryptionVersion": 2,
+        "salt": "zI8Fa72MDdYtWxkRjFUaI7+hi1CfPC9+j61ofPdMsm4="
+    }
+}

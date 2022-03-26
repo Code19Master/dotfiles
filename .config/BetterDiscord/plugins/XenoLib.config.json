@@ -1,0 +1,22 @@
+{
+    "currentVersionInfo": {
+        "version": "1.4.4",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "notifications": {
+            "position": "topRight",
+            "backdrop": true,
+            "backdropColor": "#3e4346",
+            "timeoutReset": true
+        },
+        "addons": {
+            "extra": true
+        },
+        "userCounter": {
+            "enabled": true,
+            "enableTime": 1644583970362,
+            "lastSubmission": 1648179089007
+        }
+    }
+}

@@ -1,0 +1,8 @@
+[user]
+	email = 91770907+Code19Master@users.noreply.github.com
+	name = Divik Babbar
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

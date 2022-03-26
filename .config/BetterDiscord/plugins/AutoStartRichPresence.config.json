@@ -1,0 +1,27 @@
+{
+    "settings": {
+        "lastChangelogVersionSeen": "2.0.5",
+        "activeProfileID": 2
+    },
+    "profiles": [
+        {
+            "name": "New Profile"
+        },
+        {
+            "name": "New Profile"
+        },
+        {
+            "name": "Invite Chiller",
+            "details": "I recommend inviting Chiller :)",
+            "clientID": "948109008521293855",
+            "largeImageKey": "gojo",
+            "largeImageText": "UwU",
+            "enableStartTime": false,
+            "button1Label": "Invite Chiller",
+            "button1URL": "https://dsc.gg/chll",
+            "button2Label": "Vote Him",
+            "button2URL": "https://top.gg/bot/945030482792439888/vote",
+            "state": "Chiller has more then 100 commands"
+        }
+    ]
+}

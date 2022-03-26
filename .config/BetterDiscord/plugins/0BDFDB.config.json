@@ -1,0 +1,22 @@
+{
+	"changeLogs": {
+		"BDFDB": "2.2.4",
+		"CreationDate": "1.4.6",
+		"EditRoles": "1.0.6",
+		"EditUsers": "4.5.4",
+		"ImageUtilities": "4.6.8",
+		"ShowHiddenChannels": "3.0.6"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "8f08825d634cb1ebc423392cd4cb4f58805127e6",
+		"0BDFDB.raw.css": "afe854fd60051d750cebb99fb290bdce5c415f27"
+	}
+}
